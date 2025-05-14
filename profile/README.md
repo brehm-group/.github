@@ -1,4 +1,6 @@
-## Test Headline
+## Brehm Group - Theoretical Chemistry at University of Paderborn
+
+This is the official GitHub account of the Brehm group.
 
 <!--
 
